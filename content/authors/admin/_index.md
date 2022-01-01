@@ -14,7 +14,7 @@ organizations:
   url: https://www.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Systems Engineer.
 
 # Interests to show in About widget
 interests:
@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/cv_2021dec15.pdf
+  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "congyu.wu@austin.utexas.edu"
@@ -73,4 +73,4 @@ highlight_name: true
 I am currently a Postdoctoral Fellow in the Department of Psychology at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. I earned my Ph.D. in Systems Engineering from the University of Virginia in 2019 and have an undergraduate background in Industrial Engineering. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
