@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Congyu Peter Wu
+title: Congyu "Peter" Wu
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '/#contact'
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -73,8 +73,8 @@ email: "congyu.wu@austin.utexas.edu"
 highlight_name: true
 ---
 
-I am a Cyber-Phsical-Human Systems researcher and currently a Postdoctoral Fellow at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. 
+I am a Cyber-Phsical-Human Systems researcher and currently a Postdoctoral Fellow at the [University of Texas at Austin](https://www.utexas.edu/) focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. 
 
-My work deepens our understanding of and creates novel methods to improve human health and behavior using Internet of Things technology and data science techniques.  
+My work deepens our understanding of and creates novel methods to improve human health and behavior using Internet of Things technology and data science techniques. I contribute to research areas such as Ubiquitous Computing, Human-Computer Interaction, Smart and Connected Health, and Social Informatics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
