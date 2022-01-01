@@ -6,7 +6,8 @@ title: Congyu Peter Wu
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Cyber-Physical-Human Systems Researcher
+position: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +15,7 @@ organizations:
   url: https://www.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Systems Engineer.
+bio: I am a Cyber-Physical-Human Systems researcher.
 
 # Interests to show in About widget
 interests:
@@ -49,6 +50,9 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=i-QMWCoAAAAJ&hl=en 
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Congyu-Wu 
 - icon: github
   icon_pack: fab
   link: https://github.com/cw9dd 
@@ -59,9 +63,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "congyu.wu@austin.utexas.edu"
@@ -70,7 +74,8 @@ email: "congyu.wu@austin.utexas.edu"
 highlight_name: true
 ---
 
-I am currently a Postdoctoral Fellow in the Department of Psychology at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. I earned my Ph.D. in Systems Engineering from the University of Virginia in 2019 and have an undergraduate background in Industrial Engineering. 
+I am currently a Postdoctoral Fellow in the Department of Psychology at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. 
 
+My work deepens our understanding of and helps improve human health and behavior using ubiquitous information technology and data science methods. I contribute to research areas such as Ubiquitous Computing, Human-Computer Interaction, Smart and Connected Health, and Computational Social Systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
