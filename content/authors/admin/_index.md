@@ -1,13 +1,12 @@
 ---
 # Display name
-title: Congyu Peter Wu
+title: Congyu **Peter Wu**
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Cyber-Physical-Human Systems Researcher
-position: Postdoctoral Fellow
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,7 +19,7 @@ bio: I am a Cyber-Physical-Human Systems researcher.
 # Interests to show in About widget
 interests:
 - Mobile Sensing and Mobile Health
-- Socially Intelligent Human-Centered Systems
+- Socially Aware AI in Human Systems
 - Computational Social Science
 
 # Education to show in About widget
@@ -74,8 +73,8 @@ email: "congyu.wu@austin.utexas.edu"
 highlight_name: true
 ---
 
-I am currently a Postdoctoral Fellow in the Department of Psychology at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. 
+I am a *Cyber-Phsical-Human Systems* researcher and currently a Postdoctoral Fellow in the Department of Psychology at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. 
 
-My work deepens our understanding of and helps improve human health and behavior using ubiquitous information technology and data science methods. I contribute to research areas such as Ubiquitous Computing, Human-Computer Interaction, Smart and Connected Health, and Computational Social Systems.
+My work deepens our understanding of and creates novel methods to improve human health and behavior using Internet of Things technology and data science techniques.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
