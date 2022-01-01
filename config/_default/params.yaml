@@ -18,43 +18,6 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
-
-email: congyu.wu@austin.utexas.edu
-# phone: 888 888 88 88
-address:
-  street: 2501 Speedway
-  city: Austin
-  region: TX
-  postcode: '78712'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: EER 3.854
-# office_hours:
-#  - 'Monday 10:00 to 13:00'
-#  - 'Wednesday 09:00 to 10:00'
-# appointment_url: 'https://calendly.com'
-# contact_links:
-# - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/Twitter'
-#  - icon: skype
-#    icon_pack: fab
-#    name: Skype Me
-#    link: 'skype:echo123?call'
-#  - icon: keybase
-#    icon_pack: fab
-#    name: Chat on Keybase
-#    link: 'https://keybase.io/'
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
-
 # Site header
 
 main_menu:
@@ -108,7 +71,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006

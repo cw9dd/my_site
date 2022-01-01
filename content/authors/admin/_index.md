@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mobile Sensing and Mobile Health
+- Socially Intelligent Human-Centered Systems
+- Computational Social Science
 
 # Education to show in About widget
 education:
@@ -40,14 +40,14 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+#- icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=i-QMWCoAAAAJ&hl=en 
 - icon: github
   icon_pack: fab
@@ -59,18 +59,18 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/cv_2021dec15.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "congyu.wu@austin.utexas.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am currently a Postdoctoral Fellow in the Department of Psychology at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s Whole Communities Whole Health grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. I earned my Ph.D. in Systems Engineering from the University of Virginia in 2019 and have an undergraduate background in Industrial Engineering.
+I am currently a Postdoctoral Fellow in the Department of Psychology at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. I earned my Ph.D. in Systems Engineering from the University of Virginia in 2019 and have an undergraduate background in Industrial Engineering. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
