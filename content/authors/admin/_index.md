@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Congyu **Peter Wu**
+title: Congyu Peter Wu
 
 # Is this the primary user of the site?
 superuser: true
@@ -73,7 +73,7 @@ email: "congyu.wu@austin.utexas.edu"
 highlight_name: true
 ---
 
-I am a *Cyber-Phsical-Human Systems* researcher and currently a Postdoctoral Fellow in the Department of Psychology at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. 
+I am a Cyber-Phsical-Human Systems researcher and currently a Postdoctoral Fellow at the University of Texas at Austin focusing on mobile sensing for mental health. I provide research and data analytics expertise for UT’s [Whole Communities Whole Health](https://bridgingbarriers.utexas.edu/whole-communities-whole-health/) grand challenge initiative, a multidisciplinary task force between engineering and behavioral sciences specialized in health sensing and community engagement. 
 
 My work deepens our understanding of and creates novel methods to improve human health and behavior using Internet of Things technology and data science techniques.  
 
