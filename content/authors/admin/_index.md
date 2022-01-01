@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Congyu **Peter Wu**
+title: Congyu Peter Wu
 
 # Is this the primary user of the site?
 superuser: true
